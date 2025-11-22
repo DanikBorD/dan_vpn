@@ -1,0 +1,15 @@
+/Users/daniilborisenko/Projects/dan_vpn/bin/Debug/net10.0/dan_vpn
+/Users/daniilborisenko/Projects/dan_vpn/bin/Debug/net10.0/dan_vpn.deps.json
+/Users/daniilborisenko/Projects/dan_vpn/bin/Debug/net10.0/dan_vpn.runtimeconfig.json
+/Users/daniilborisenko/Projects/dan_vpn/bin/Debug/net10.0/dan_vpn.dll
+/Users/daniilborisenko/Projects/dan_vpn/bin/Debug/net10.0/dan_vpn.pdb
+/Users/daniilborisenko/Projects/dan_vpn/obj/Debug/net10.0/dan_vpn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniilborisenko/Projects/dan_vpn/obj/Debug/net10.0/dan_vpn.AssemblyInfoInputs.cache
+/Users/daniilborisenko/Projects/dan_vpn/obj/Debug/net10.0/dan_vpn.AssemblyInfo.cs
+/Users/daniilborisenko/Projects/dan_vpn/obj/Debug/net10.0/dan_vpn.csproj.CoreCompileInputs.cache
+/Users/daniilborisenko/Projects/dan_vpn/obj/Debug/net10.0/dan_vpn.sourcelink.json
+/Users/daniilborisenko/Projects/dan_vpn/obj/Debug/net10.0/dan_vpn.dll
+/Users/daniilborisenko/Projects/dan_vpn/obj/Debug/net10.0/refint/dan_vpn.dll
+/Users/daniilborisenko/Projects/dan_vpn/obj/Debug/net10.0/dan_vpn.pdb
+/Users/daniilborisenko/Projects/dan_vpn/obj/Debug/net10.0/dan_vpn.genruntimeconfig.cache
+/Users/daniilborisenko/Projects/dan_vpn/obj/Debug/net10.0/ref/dan_vpn.dll
